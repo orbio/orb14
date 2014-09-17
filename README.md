@@ -21,7 +21,7 @@ This repository simply collects links to the resources created for and during OR
 - [Open Access and Reproducible Research Compendium](http://camillescott.github.io/oarr-compendium/html/) - a directory of resources for open reproducible science.
 - [Reviewers Oath](https://docs.google.com/document/d/1v_ApRnuu5_sWolop6y0nAbLudMX0ge2m_xXCj0dmD9A/edit) - work in progress to develop an oath that researchers can sign to commit themselves to high-quality, ethical peer review practices.
 - [Open Science Paper](https://docs.google.com/document/d/1RBYTEWSQZm4Md4LenE1htvTHsqo-j_dCduaqi_Q-pvo/edit) - title: "What are the community & cultural barriers to uptake of Open Science principles to life science research".
-- [NGS Best Practise community site](http://blahah.net/orb14_bestpractice/) - a community site for publishing up-to-date 'best practise' standards for NGS workflows.
+- [NGS Best Practice community site](http://blahah.net/orb14_bestpractice/) - a community site for up-to-date 'best practice' standards for NGS workflows: what stages are necessary in the analysis, what is the minimal description to report for reproducibility.
 
 ### Attendee flash presentations
 
