@@ -1,5 +1,4 @@
 Open Reproducible Biology Workshop 2014 @ TGAC
-
 =====
 
 This repository simply collects links to the resources created for and during ORB14.
